@@ -8,7 +8,7 @@ import {
 import Home from "./home";
 import Dashboard from "./Dashboard";
 
-import "./app.css";
+import "./App.css";
 
 import logo from "./assets/logo.png";
 function App() {
